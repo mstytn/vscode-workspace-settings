@@ -1,0 +1,11 @@
+{
+  "jshint.enable": false,
+  "eslint.enable": true,
+  "cSpell.words": [
+    "apos"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "typelens.showReferencesForProperties": false
+}
